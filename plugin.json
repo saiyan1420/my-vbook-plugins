@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "Hentaivnx",
+    "author": "Gemini",
+    "version": 1,
+    "source": "https://www.hentaivnx.com",
+    "regexp": "hentaivnx.com/.*-truyen/$",
+    "description": "Đọc truyện trên Hentaivnx",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "comic",
+    "tag": "nsfw"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
