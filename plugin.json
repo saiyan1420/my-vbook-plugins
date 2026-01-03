@@ -1,7 +1,7 @@
 {
   "metadata": {
     "name": "Hentaivnx",
-    "author": "Gemini",
+    "author": "saiyan1420",
     "version": 1,
     "source": "https://www.hentaivnx.com",
     "regexp": "hentaivnx.com/.*-truyen/$",
@@ -12,10 +12,10 @@
     "tag": "nsfw"
   },
   "script": {
-    "home": "home.js",
-    "detail": "detail.js",
-    "search": "search.js",
-    "toc": "toc.js",
-    "chap": "chap.js"
+    "home": "src/home.js",
+    "detail": "src/detail.js",
+    "search": "src/search.js",
+    "toc": "src/toc.js",
+    "chap": "src/chap.js"
   }
 }
